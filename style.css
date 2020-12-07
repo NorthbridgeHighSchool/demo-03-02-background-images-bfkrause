@@ -1,0 +1,39 @@
+
+
+
+html.colorado{
+  background-image: url('rocky mountains.jpeg');
+  background-repeat: no-repeat;
+  background-position: center center ;
+  background-attachment: fixed;
+  background-size: cover;
+}
+html.mountain{
+  background-image: url('MachPich.jpg');
+  background-repeat: no-repeat;
+  background-position: center center ;
+  background-attachment: fixed;
+  background-size: cover;
+}
+html.rio{
+  background-image: url('Rio.jpeg');
+  background-repeat: no-repeat;
+  background-position: center center ;
+  background-attachment: fixed;
+  background-size: cover;
+}
+html.paris{
+  background-image: url('Eiffel.webp');
+  background-repeat: no repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+.textblock{
+  margin: 0;
+  background-color: rgba(0, 69, 196, 0.377)  ;
+  padding: 15px;  
+}
+h1{
+  font-family: 
+}
